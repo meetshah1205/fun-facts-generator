@@ -23,3 +23,7 @@
         ```
 
 3. Copy the path to your `index.html` file and paste it in your browser URL bar.
+
+   It should look something like this:
+
+![Screenshot 2024-07-04 203315](https://github.com/meetshah1205/fun-facts-generator/assets/147620166/4e7b5d17-7eb3-49f7-a13e-758542a83a56)
